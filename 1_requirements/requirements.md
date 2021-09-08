@@ -55,5 +55,6 @@ At the end of the elections, he electoral officials converge and count the votes
 ## Low Level Requirements
 |LLR1| Please Choose Your Candidate|
 |LLR2| Vote counting|
-|LLR3|Leading Candidate|LLR4|Exited
+|LLR3|Leading Candidate
+|LLR4|Exited
   
