@@ -1,0 +1,1 @@
+![Choosing the candidate](https://user-images.githubusercontent.com/89703153/132481675-b45b940b-cdb6-477d-8375-1f4f55685914.png)
