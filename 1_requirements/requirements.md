@@ -11,7 +11,6 @@ The word VOTE means to choose from a list, to elect or to determine.
 The main goal of voting (in a scenario involving the citizens of a given country) is to come up with leaders of the people’s choice. Most countries, India not an exception have problems when it comes to voting.
 Some of the problems involved include ridging votes during election, insecure or inaccessible polling stations,inadequate polling materials and also inexperienced personnel.
 
-# **Research**
 ## Equipment
 - voting machine.
 ## History
@@ -56,5 +55,5 @@ At the end of the elections, he electoral officials converge and count the votes
 ## Low Level Requirements
 |LLR1| Please Choose Your Candidate|
 |LLR2| Vote counting|
-|LLR3|Leading Candidate| |LLR4|Exited
+|LLR3|Leading Candidate|LLR4|Exited
   
